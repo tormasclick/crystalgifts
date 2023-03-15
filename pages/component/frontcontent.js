@@ -94,16 +94,27 @@ const FrontContent = () => {
                         <i className="icon-calendar to-animate-2"></i>
                         <div className="fh5co-post to-animate">
                         <h3>No Expiry</h3>
-                        <p>At Crystalgift, we understand that traditional physical gifts can sometimes have a limited lifespan, and that many digital gifts have expiration dates. That is why we offer a unique feature where all our digital gifts have no expiry.This means that the digital gift vouchers and tokens you purchase from us will not expire, so you can use them at your convenience. You don't have to worry about the gifts expiring or losing its value over time, unlike traditional physical gifts.</p>
+                        <p>At Crystalgift, we understand that traditional physical gifts can sometimes 
+                          have a limited lifespan, and that many digital gifts have expiration dates. 
+                          That is why we offer a unique feature where all our digital gifts have no 
+                          expiry.This means that the digital gift vouchers and tokens you purchase 
+                          from us will not expire, so you can use them at your convenience. You don't 
+                          have to worry about the gifts expiring or losing its value over time, unlike 
+                          traditional physical gifts.</p>
                     </div>
                 </div>
                 <div className="core">
                     <i className="icon-th to-animate-2"></i>
                     <div className="fh5co-post to-animate">
                     <h3>Partial Redemption</h3>
-                    <p>At Crystalgift, we understand that the value of some digital gifts may be more than what the recipient needs or wants to spend at a given time. That's why we offer the option of partial redemption for our digital gift vouchers and tokens.
+                    <p>At Crystalgift, we understand that the value of some digital gifts may be more 
+                      than what the recipient needs or wants to spend at a given time. That's why we 
+                      offer the option of partial redemption for our digital gift vouchers and tokens.
 
-                        With partial redemption, the recipient of a gift voucher or token can choose to redeem only a portion of its value, rather than using the entire value at once. This allows them to spread out their spending and use the gift over time, rather than feeling pressured to use it all at once.</p>
+                        With partial redemption, the recipient of a gift voucher or token can choose 
+                        to redeem only a portion of its value, rather than using the entire value at 
+                        once. This allows them to spread out their spending and use the gift over time, 
+                        rather than feeling pressured to use it all at once.</p>
                     </div>
                 </div>
                 </div>
@@ -112,18 +123,27 @@ const FrontContent = () => {
                     <i className="icon-lock to-animate-2"></i>
                     <div className="fh5co-post to-animate">
                     <h3>Lock Vouchers to your preferred merchants</h3>
-                    <p>At Crystalgift, we understand that customers may want to purchase a digital gift voucher or token and use it at a specific merchant or retailer. That's why we offer the option to lock vouchers or tokens to a preferred merchant.
+                    <p>At Crystalgift, we understand that customers may want to purchase a digital 
+                      gift voucher or token and use it at a specific merchant or retailer. That&apos;s 
+                      why we offer the option to lock vouchers or tokens to a preferred merchant.
 
-                        When you purchase a digital gift voucher or token, you have the option to specify a preferred merchant or retailer. This means that the voucher or token can only be used at that specific merchant or retailer.</p>
+                        When you purchase a digital gift voucher or token, you have the option to 
+                        specify a preferred merchant or retailer. This means that the voucher or token 
+                        can only be used at that specific merchant or retailer.</p>
                     </div>
                 </div>
                 <div className="core">
                     <i className="icon-exchange to-animate-2"></i>
                     <div className="fh5co-post to-animate">
                     <h3>Recall un-utilized vouchers</h3>
-                    <p>At Crystalgift, we understand that sometimes customers may purchase a digital gift voucher or token and for some reasons, the intended recipient may not use it. And, you might want to recall those un-utilized vouchers.
+                    <p>At Crystalgift, we understand that sometimes customers may purchase a digital 
+                      gift voucher or token and for some reasons, the intended recipient may not use 
+                      it. And, you might want to recall those un-utilized vouchers.
 
-                        Depending on the terms and conditions of our service, we may offer the option for customers to recall un-utilized vouchers or tokens. This feature allows customers to retrieve the remaining value of an un-used gift voucher or token and use it for a different purpose</p>
+                        Depending on the terms and conditions of our service, we may offer the option 
+                        for customers to recall un-utilized vouchers or tokens. This feature allows 
+                        customers to retrieve the remaining value of an un-used gift voucher or token 
+                        and use it for a different purpose</p>
                     </div>
                 </div>
                 </div>
