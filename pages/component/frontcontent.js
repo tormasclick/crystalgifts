@@ -16,10 +16,8 @@ const FrontContent = () => {
                 <div className="fh5co-post to-animate">
                   <h3>Hand-crafted with Detailed</h3>
                   <p>
-                    Our hand-crafted digital gifts are created with the recipient in
-                    mind, so you can be sure that they will be truly personalized and
-                    meaningful. From custom-designed e-cards, to hand-drawn digital
-                    vouchers and tokens, each gift is created with care and precision
+                  Our hand-crafted digital gifts are created with the recipient in mind, so you can be sure that they will be truly personalized and meaningful. From custom-designed e-cards, to hand-drawn digital vouchers and tokens, each gift is created with care and precision.
+
                   </p>
                 </div>
               </div>
@@ -34,10 +32,9 @@ const FrontContent = () => {
                 <div className="fh5co-post to-animate">
                   <h3>Secure Account</h3>
                   <p>
-                    At Crystalgift, we understand the importance of security when it
-                    comes to our customers' personal information and transactions.
-                    That's why we have implemented several measures to ensure that our
-                    platform is secure and that our customers' accounts are protected.
+                  At Crystalgift, we understand the importance of security when it comes to our 
+                  customers&apos; personal information and transactions. That&apos;s why we have implemented several measures to ensure that our platform is secure and that our customers&apos; accounts are protected.
+
                   </p>
                 </div>
               </div>
@@ -68,10 +65,10 @@ const FrontContent = () => {
                   </span>
                 </div>
                 <div className="fh5co-post to-animate">
-                  <h3>24/7 Help & Support</h3>
+                  <h3>24/7 Help and Support</h3>
                   <p>
                     At Crystalgift, we understand that our customers may have
-                    questions or need assistance at any time. That's why we offer 24/7
+                    questions or need assistance at any time. That&apos;s why we offer 24/7
                     help and support to ensure that our customers are able to reach us
                     whenever they need assistance.
                   </p>
@@ -98,7 +95,7 @@ const FrontContent = () => {
                           have a limited lifespan, and that many digital gifts have expiration dates. 
                           That is why we offer a unique feature where all our digital gifts have no 
                           expiry.This means that the digital gift vouchers and tokens you purchase 
-                          from us will not expire, so you can use them at your convenience. You don't 
+                          from us will not expire, so you can use them at your convenience. You don&apos;t 
                           have to worry about the gifts expiring or losing its value over time, unlike 
                           traditional physical gifts.</p>
                     </div>
@@ -108,7 +105,7 @@ const FrontContent = () => {
                     <div className="fh5co-post to-animate">
                     <h3>Partial Redemption</h3>
                     <p>At Crystalgift, we understand that the value of some digital gifts may be more 
-                      than what the recipient needs or wants to spend at a given time. That's why we 
+                      than what the recipient needs or wants to spend at a given time. That&apos;s why we 
                       offer the option of partial redemption for our digital gift vouchers and tokens.
 
                         With partial redemption, the recipient of a gift voucher or token can choose 
