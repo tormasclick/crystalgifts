@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
+import Image from 'next/image';
 
 const Shops = () => {
 const [shops, setShops] = useState([]);
@@ -31,7 +32,14 @@ return (
 <div className="price"><sup className="currency"></sup></div>
 <p className="business_name">{shop.business_name}</p>
 <hr />
-<span className="business_logo"><img src={shop.business_logo} alt="" style={{maxWidth: '200px'}} /></span>
+<span className="business_logo">
+    <Image 
+    src={shop.business_logo} 
+    alt="Business Logo" 
+    width={200} 
+    height={200} 
+    />
+</span>
 <hr />
 <p><a href="#" className="btn btn-primary">Explore Gifts</a></p>
 </div>

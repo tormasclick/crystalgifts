@@ -50,7 +50,7 @@ const FrontContent = () => {
                   </span>
                 </div>
                 <div className="fh5co-post to-animate">
-                  <h3>Satisfied &amp; Happy Clients</h3>
+                  <h3>Satisfied Happy Clients</h3>
                   <p>
                     At Crystalgift, we are dedicated to providing our customers with
                     a satisfying and enjoyable experience. We work hard to ensure that
@@ -68,7 +68,7 @@ const FrontContent = () => {
                   </span>
                 </div>
                 <div className="fh5co-post to-animate">
-                  <h3>24/7 Help &amp; Support</h3>
+                  <h3>24/7 Help & Support</h3>
                   <p>
                     At Crystalgift, we understand that our customers may have
                     questions or need assistance at any time. That's why we offer 24/7

@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 
 const Headercomp = () => {
   return (
@@ -14,7 +15,7 @@ const Headercomp = () => {
               <span className="icon-bar"></span>
             </button>
             <Link className="navbar-brand" href="/">
-              <img src="images/logo2.jpg" style={{ width: '30%' }} />
+              <Image src="/images/logo2.jpg" alt="Logo" width={30} height={30} />
             </Link>
           </div>
           <div id="navbar" className="navbar-collapse collapse">
