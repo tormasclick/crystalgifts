@@ -21,7 +21,7 @@ const Shops = () => {
         <div className="container">
           <div className="row">
             <div className="col-md-12 text-center">
-              <h2>Gift Shops</h2>
+              <h2>Crystal Gifts Shops</h2>
               <p>Showing {shops.length} shops</p>
             </div>
           </div>
@@ -33,7 +33,7 @@ const Shops = () => {
                   <p className="business_name">{shop.business_name}</p>
                   <hr />
                   <span className="business_logo">
-                    <Image 
+                    <img 
                       src={shop.business_logo} 
                       alt="Business Logo" 
                       width={200} 

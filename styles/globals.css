@@ -93,6 +93,7 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
+    background-color: #fff;
 }
 
 a {
@@ -104,4 +105,25 @@ a {
   html {
     color-scheme: dark;
   }
+}
+.pagination{
+  border: 1px solid;
+  padding:10px;
+  color:#b28331;
+  margin-left: 0 !important;
+}
+.col-md-offset-3 pagination{
+  margin-left: 0% !important;
+}
+#fh5co-home .gradient {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 2;
+  background: rgba(0, 0, 0, 0.3);
+}
+.caption {
+  background-color: rgba(0, 0, 0, 0.1);
 }

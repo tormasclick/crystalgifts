@@ -25,7 +25,7 @@ const Shops = () => {
         <div className="container">
           <div className="row">
             <div className="col-md-12 text-center">
-              <h2>Gift Shops</h2>
+              <h2>Crystal Gifts Shops</h2>
               <p>Showing {shops.slice(0, 4).length} out of {shops.length} shops</p>
             </div>
           </div>
@@ -36,7 +36,7 @@ const Shops = () => {
                   <div className="price"><sup className="currency"></sup></div>
                   <p className="business_name">{shop.business_name}</p>
                   <hr />
-                  <span className="business_logo"><image src={shop.business_logo} alt="" style={{maxWidth: '200px'}} /></span>
+                  <span className="business_logo"><img src={shop.business_logo} alt="" style={{maxWidth: '200px'}} /></span>
                   <hr />
                   <p><a href="#" className="btn btn-primary">Explore Gifts</a></p>
                 </div>
@@ -45,8 +45,8 @@ const Shops = () => {
           </div>
           <div className="row">
             <div className="col-md-6 col-md-offset-3 to-animate">
-              <Link className="btn btn-primary" href="/shops">
-                More Shops
+              <Link className="pagination" href="/shops">
+                View More Shops ++
               </Link>
             </div>
           </div>

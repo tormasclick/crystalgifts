@@ -495,7 +495,7 @@ h1, h2, h3, h4, h5, h6 {
 		// @include fh5co-gradient;
 	}
 	&, .text-wrap {
-		height: 500px;
+		height: 900px;
 	}
 	.text-wrap {
 		display: table;
@@ -576,18 +576,12 @@ h1, h2, h3, h4, h5, h6 {
 #fh5co-explore, 
 #fh5co-faq, 
 #fh5co-team, 
-#fh5co-trusted,
+#fh5co-trusted, 
+#fh5co-footer,
 #fh5co-work, 
 #fh5co-counters,
 #fh5co-pricing,
 #fh5co-blog {
-	padding: 2em 0;
-	@media screen and (max-width: $screen-sm) {
-		padding: 3em 0;
-	}
-}
- 
-#fh5co-footer {
 	padding: 8em 0;
 	@media screen and (max-width: $screen-sm) {
 		padding: 3em 0;

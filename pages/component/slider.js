@@ -17,6 +17,7 @@ const Slider = () => {
           <div className="text-inner">
             <div className="row">
               <div className="col-md-8 col-md-offset-2 text-center">
+                <div className="caption">
                 <h1 className="to-animate">
                   Each day provides its own <span>Gifts</span>
                 </h1>
@@ -27,15 +28,16 @@ const Slider = () => {
                   </a>{' '}
                   <br /> HERE WITH US!{' '}
                 </h2>
+                </div>
                 <div className="call-to-action">
                   <a
-                    href="https://www.slashdotlabsprojects.com/crystalgift/userapp/index.php"
+                    href="https://shop.crystalgift.co.ke/index.php/login"
                     className="demo to-animate"
                   >
                     <i className="icon-login"></i> login
                   </a>
                   <a
-                    href="https://slashdotlabsprojects.com/crystalgift/userapp/index.php/registration"
+                    href="https://shop.crystalgift.co.ke/index.php/registration"
                     className="download to-animate"
                   >
                     <i className="icon-registered"></i> Sign up

@@ -14,17 +14,17 @@ const Headercomp = () => {
               <span className="icon-bar"></span>
               <span className="icon-bar"></span>
             </button>
-            <Link className="navbar-brand" href="/">
-              <Image src="/images/logo2.jpg" alt="Logo" width={30} height={30} />
+            <Link className="navbar-brand" href="#">
+              <img src="/images/logo2.jpg" alt="Logo" width={200}  />
             </Link>
           </div>
           <div id="navbar" className="navbar-collapse collapse">
             <ul className="nav navbar-nav navbar-right">
               <li className="active"><Link href="/#home"><span>Home</span></Link></li>
-              <li><Link href="/#services"><span>Services</span></Link></li>
-              <li><Link href="/#pricing"><span>Pricing</span></Link></li>
-              <li className="call-to-action"><Link className="sign-up" href="https://slashdotlabsprojects.com/crystalgift/userapp/index.php/registration"><span>Sign Up</span></Link></li>
-              <li className="call-to-action"><Link className="log-in" href="https://www.slashdotlabsprojects.com/crystalgift/userapp/index.php"><span>Login</span></Link></li>
+              <li><Link href="/#fh5co-services"><span>Services</span></Link></li>
+              {/* <li><Link href="/#pricing"><span>Pricing</span></Link></li> */}
+              <li className="call-to-action"><Link className="sign-up" href="https://dashboard.crystalgift.co.ke/index.php/registration"><span>Sign Up</span></Link></li>
+              <li className="call-to-action"><Link className="log-in" href="https://dashboard.crystalgift.co.ke/index.php/login"><span>Login</span></Link></li>
             </ul>
           </div>
         </nav>

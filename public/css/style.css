@@ -374,7 +374,7 @@ h1, h2, h3, h4, h5, h6 {
   background: rgba(0, 0, 0, 0.3);
 }
 #fh5co-home, #fh5co-home .text-wrap {
-  height: 900px;
+  height: 500px;
 }
 #fh5co-home .text-wrap {
   display: table;
@@ -451,11 +451,13 @@ h1, h2, h3, h4, h5, h6 {
 #fh5co-faq,
 #fh5co-team,
 #fh5co-trusted,
-#fh5co-footer,
 #fh5co-work,
 #fh5co-counters,
 #fh5co-pricing,
 #fh5co-blog {
+  padding: 2em 0;
+}
+#fh5co-footer{
   padding: 8em 0;
 }
 @media screen and (max-width: 768px) {
@@ -758,7 +760,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #fh5co-pricing .price-box {
-  border: 2px solid #ECEEF0;
+  border: 1px solid #eee;
   text-align: center;
   padding: 30px;
   -webkit-border-radius: 5px;
@@ -841,7 +843,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 130px;
   display: inline-block;
   position: relative;
-  border: 2px solid rgba(0, 0, 0, 0.05);
+  border: 1px solid rgba(0, 0, 0, 0.05);
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
@@ -1120,6 +1122,7 @@ h1, h2, h3, h4, h5, h6 {
 #fh5co-footer {
   background: #41444B;
   color: rgba(255, 255, 255, 0.6);
+  padding-top: 4em;
 }
 #fh5co-footer a {
   color: rgba(255, 255, 255, 0.6);
@@ -1513,3 +1516,4 @@ h1, h2, h3, h4, h5, h6 {
 #fh5co-header .navbar-default {
   background-color: #b28331;
 }
+
