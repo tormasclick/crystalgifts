@@ -14,7 +14,7 @@ const Headercomp = () => {
               <span className="icon-bar"></span>
               <span className="icon-bar"></span>
             </button>
-            <Link className="navbar-brand" href="#">
+            <Link className="navbar-brand" href="/#home">
               <img src="/images/logo2.jpg" alt="Logo" width={200}  />
             </Link>
           </div>
